@@ -27,9 +27,7 @@ DAP partners are Syndication and Cloud Solution Providers (CSP) partners. They a
 
 DAP partners can use Exchange Online PowerShell to manage customer Exchange Online settings and get Office 365 reports from the command line. You use Windows PowerShell on your local computer to create a remote PowerShell session to Exchange Online. It's a simple three-step process where you enter your credentials, provide the required connection settings, and then import the Exchange Online cmdlets into your local Windows PowerShell session so that you can use them.
 
-> [!NOTE]
-> DAP partners can't use the procedures in [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell) to connect to their customer tenant organizations in Exchange Online PowerShell. MFA and the Exchange Online Remote PowerShell Module don't work with delegated authentication.
-  
+
 ## What do you need to know before you begin?
 
 - Estimated time to complete: 5 minutes
